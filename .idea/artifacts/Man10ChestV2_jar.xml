@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Man10ChestV2:jar">
+    <output-path>$PROJECT_DIR$/../../minecraft server/plugins</output-path>
+    <root id="archive" name="Man10ChestV2.jar">
+      <element id="module-output" name="Man10ChestV2" />
+    </root>
+  </artifact>
+</component>
